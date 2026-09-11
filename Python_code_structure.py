@@ -4,7 +4,7 @@ astra = Client(api_key='API Key')
 
 # Define industry-standard OpenQASM 2.0
 qasm_str = """
-# Paste your QASM code here
+// Paste your QASM code here
 
 """
 
