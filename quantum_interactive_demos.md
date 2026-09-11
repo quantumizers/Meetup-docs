@@ -1,4 +1,4 @@
-# Quantumizers Meetup 2: Interactive QASM Demos
+# Quantumizers Meetup 3: Interactive QASM Demos
 
 This guide provides copy-pasteable **OpenQASM 2.0** code blocks for each of the 5 algorithms in the presentation. These circuits are designed to run instantly on any standard simulator or cloud QPU (e.g., IBM Quantum Composer, Classiq, or local Qiskit setups).
 
